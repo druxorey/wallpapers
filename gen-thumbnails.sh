@@ -3,7 +3,7 @@
 declare -r FORMAT_SUCCESS="\e[1;32m[SUCCESS]\e[0m"
 declare -r THUMBNAILS_DIR=".Thumbnails"
 declare -r README="README.md"
-declare -r BASE_URL="https://github.com/druxorey/tmp/raw/refs/heads/main"
+declare -r BASE_URL="https://github.com/druxorey/Wallpapers/raw/refs/heads/main"
 
 function main() {
 	mkdir -p "$THUMBNAILS_DIR"
