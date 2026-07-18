@@ -4,10 +4,10 @@
 
 _A curated collection of my personal wallpapers_
 
-[![stars](https://img.shields.io/github/stars/druxorey/wallpapers?color=8BE9FD&labelColor=191A21&style=for-the-badge)](https://github.com/druxorey/dotfiles/stargazers)
-[![size](https://img.shields.io/github/repo-size/druxorey/wallpapers?label=Size&color=50FA7B&labelColor=191A21&style=for-the-badge)](https://github.com/druxorey/dotfiles)
-[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdruxorey%2Fdotfiles&label=Views&labelColor=%23191A21&countColor=%23FFB86C)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fdruxorey%2Fdotfiles)
-[![license](https://img.shields.io/github/license/druxorey/wallpapers?color=FF5555&labelColor=191A21&style=for-the-badge)](https://github.com/druxorey/dotfiles/blob/main/LICENSE)
+[![stars](https://img.shields.io/github/stars/druxorey/wallpapers?color=8BE9FD&labelColor=191A21&style=for-the-badge)](https://github.com/druxorey/wallpapers/stargazers)
+[![size](https://img.shields.io/github/repo-size/druxorey/wallpapers?label=Size&color=50FA7B&labelColor=191A21&style=for-the-badge)](https://github.com/druxorey/wallpapers)
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdruxorey%2Fwallpapers&label=Views&labelColor=%23191A21&countColor=%23FFB86C)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fdruxorey%2Fwallpapers)
+[![license](https://img.shields.io/github/license/druxorey/wallpapers?color=FF5555&labelColor=191A21&style=for-the-badge)](https://github.com/druxorey/wallpapers/blob/main/LICENSE)
 
 </div>
 
